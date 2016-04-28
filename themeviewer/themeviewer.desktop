@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=themeviewer
+Exec=themeviewer
+Icon=themeviewer/themeviewer.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

@@ -1,0 +1,15 @@
+{
+    "name": "themeviewer.xiaoguo",
+    "description": "description of themeviewer",
+    "architecture": "@CLICK_ARCH@",
+    "title": "themeviewer",
+    "hooks": {
+        "themeviewer": {
+            "apparmor": "themeviewer/themeviewer.apparmor",
+            "desktop": "themeviewer/themeviewer.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-15.04"
+}
